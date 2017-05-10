@@ -1,0 +1,10 @@
+body {
+	margin:	0;
+}
+
+#myCalculator {
+	margin: 0 auto;
+	width: 50%;
+	max-width: 12em;
+	margin-top: 2em;
+}
