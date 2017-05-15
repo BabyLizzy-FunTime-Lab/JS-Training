@@ -1,6 +1,9 @@
 #theForm {
 	margin: 0 auto;
 	width: 30%;
+	max-width: 15em;
+	min-width: 10em;
+	text-align: center;
 }
 
 input {
